@@ -2,13 +2,13 @@
 All the assignments were done collaboratively with Magnus Tronstad and Quintus Roos, two excellent practitioners and people.
 
 ## Assignments
-Final grade (including written exam) : B
-The assignments required coding, reporting and oral presentations.
-Lab 1 primarily regarded perceptron learning and programming in Python, Tensorflow and Keras. Classification, regression and noisy time series forecasting was explored with MLPs that were both implemented "from scratch" with Numpy and using Keras sequential models.
-In lab 2 Self-organizing maps and radial basis function networks was of interest. Unsupervised learning problems like clustering and travelling salesman problems were tackled as well as regression problems with RBF. Experimentation with competetive learning, batch vs online learning etc. were also made.
-Lab 3 regarded Hopfield networks and consisted of experimentation with sparsity, capacity and recall patterns.
-Lab 4 was about RBMs and DBNs, code skeletons were provided but the layers were coded by us primarily using the Numpy library. The contrastive divergence algorithm was applied to a DBN consisting of stacked RBMs and both image recognition and image generation was experimented with on the MNIST dataset.
+Final grade (including written exam) : B \
+The assignments required coding, reporting and oral presentations. \
+Lab 1 : Perceptron learning and programming in Python, Tensorflow and Keras. Classification, regression and noisy time series forecasting was explored with MLPs that were both implemented "from scratch" with Numpy and using Keras sequential models. \
+Lab 2 : Self-organizing maps and radial basis function networks was of interest. Unsupervised learning problems like clustering and travelling salesman problems were tackled as well as regression problems with RBF. Experimentation with competetive learning, batch vs online learning etc. were also made. \
+Lab 3 : Hopfield networks. Experimentation with sparsity, capacity and recall patterns. \
+Lab 4 : Restricted Boltzmann Machines and Deep Belief Networks. Code skeletons were provided but the layers were coded by us primarily using the Numpy library. The contrastive divergence algorithm was applied to a DBN consisting of stacked RBMs and both image recognition and image generation was experimented with on the MNIST dataset.
 
 ## Course description
-Taken from : https://www.kth.se/student/kurser/kurs/DD2437?l=en
+Taken from : https://www.kth.se/student/kurser/kurs/DD2437?l=en \
 " The course is concerned with computational problems in massively parallel artificial neural network (ANN) architectures, which rely on distributed simple computational nodes and robust learning algorithms that iteratively adjust the connections between the nodes heavily using the available data samples. The learning rule and network architecture determine specific computational properties of the ANN. The course offers an opportunity to develop the conceptual and theoretical understanding of computational capabilities of ANNs starting from simpler systems and progressively studying more advanced architectures, and hence exploring the breadth of learning types – from strictly supervised to purely explorative unsupervised mode. The course content therefore includes among others multi-layer perceptrons (MLPs), self-organising maps (SOMs), Boltzmann machines, Hopfield networks and state-of-the-art deep neural networks (DNNs) along with the corresponding learning algorithms. An important objective of the course is for the students to gain practical experience of selecting, developing, applying and validating suitable networks and algorithms to effectively address a broad class of regression, classification, temporal prediction, data modelling, explorative data analytics or clustering problems. Finally, the course provides revealing insights into the principles of generalisation capabilities of ANNs, which underlie their predictive power. "
