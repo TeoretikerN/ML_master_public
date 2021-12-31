@@ -1,0 +1,2 @@
+## Public course work
+This repository consists of samples of my course work related to machine learning with the intention of showcasing my work whilst not making code publically available that would go against the code of conduct of my school.
